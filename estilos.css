@@ -1,0 +1,41 @@
+body{
+    color: azure;
+}
+a {
+    font-size: small;
+    text-decoration: none;
+    color: white;
+    background-color: rgba(80, 61, 27, 0.952);
+    padding: 10px;
+    margin-top: 10px;
+    width: 20px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid rgba(80, 61, 27, 0.952);
+    border-collapse: collapse;
+    margin: 5px;
+}
+
+a:hover {
+    color: white;
+    background: rgba(104, 79, 36, 0.952);
+}
+.index{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.targeta{
+    background: rgba(80, 61, 27, 0.952);
+}
+.tamaño{
+    width: 500px;
+    height: 400px;
+    float:right;
+}
+.is img{
+   width: 500px;
+   height: 400px;
+    float:left;
+    margin-top: 20px;
+    border-radius: 10%;
+}
